@@ -153,4 +153,4 @@ MIT License
 <div align="center">
   <img src="static/ty.gif" alt="Thanks" width="400"/>
   <br>
-  <b>Contributions welcome!</b> Please open issues or submit pull requests for
+  <b>Contributions welcome!</b> Please open issues or submit pull requests
