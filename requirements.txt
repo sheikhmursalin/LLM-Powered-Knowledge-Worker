@@ -1,0 +1,15 @@
+flask
+openai
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+requests
+dateparser
+rapidfuzz
+python-dotenv
+qdrant-client
+sentence-transformers
+huggingface-hub
+numpy
+httplib2
+oauthlib
