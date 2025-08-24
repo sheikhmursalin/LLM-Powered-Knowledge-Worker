@@ -1,4 +1,4 @@
-# 💼 LLM Knowledge Worker
+# 💼 LLM Powered Knowledge Worker
 
 A modern AI productivity assistant that brings together Large Language Models (LLMs), Gmail, Google Calendar, and travel APIs into a single, beautiful web app. Automate your emails, calendar, travel search, and more—just by chatting!
 
